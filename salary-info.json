@@ -1,0 +1,289 @@
+{
+  "name": "",
+  "children": [
+    {
+      "name": "Big Ten",
+      "children": [
+        {
+          "name": "Wisconsin",
+          "size": 3698.63
+        },
+        {
+          "name": "Nebraska",
+          "size": 4246.57,
+          "info": "Bo Pelini - $3.1 Million"
+        },
+        {
+          "name": "Iowa",
+          "size": 5479.45
+        },
+        {
+          "name": "Minnesota",
+          "size": 2876.71
+        },
+        {
+          "name": "Illinois",
+          "size": 2465.75
+        },
+        {
+          "name": "Purdue",
+          "size": 3150.68
+        },
+        {
+          "name": "Northwestern",
+          "size": 3287.67
+        },
+        {
+          "name": "Michigan",
+          "size": 5890.41
+        },
+        {
+          "name": "Ohio State",
+          "size": 6575.34
+        },
+        {
+          "name": "Michigan State",
+          "size": 5068.49
+        },
+        {
+          "name": "Rutgers",
+          "size": 1232.87
+        },
+        {
+          "name": "Indiana",
+          "size": 1917.81
+        },
+        {
+          "name": "Penn State",
+          "size": 5479.45
+        },
+        {
+          "name": "Maryland",
+          "size": 3082.19
+        }    
+      ]
+    },
+    {
+      "name": "SEC",
+      "children": [
+        {
+          "name": "Auburn",
+          "size": 5479.45
+        },
+        {
+          "name": "Texas A&M",
+          "size": 6849.315
+        },
+        {
+          "name": "Alabama",
+          "size": 10000
+        },
+        {
+          "name": "Ole Miss",
+          "size": 4383.56
+        },
+        {
+          "name": "LSU",
+          "size": 6164.38
+        },
+        {
+          "name": "Mississippi State",
+          "size": 4383.56
+        },
+        {
+          "name": "Arkansas",
+          "size": 4109.58
+        },
+        {
+          "name": "Kentucky",
+          "size": 3082.19
+        },
+        {
+          "name": "Tennessee",
+          "size": 4383.56
+        },
+        {
+          "name": "Missouri",
+          "size": 4452.05
+        },
+        {
+          "name": "Georgia",
+          "size": 4657.53
+        },
+        {
+          "name": "Vanderbilt",
+          "size": 3082.19
+        },
+        {
+          "name": "South Carolina",
+          "size": 5479.45
+        },
+        {
+          "name": "Florida",
+          "size": 4109.58
+        }      
+      ]
+    },
+    {
+      "name": "ACC",
+      "children": [
+        {
+          "name": "Boston College",
+          "size": 2397.26
+        },
+        {
+          "name": "Syracuse",
+          "size": 1917.80
+        },
+        {
+          "name": "NC State",
+          "size": 2739.72
+        },
+        {
+          "name": "Florida State",
+          "size": 5479.45
+        },
+        {
+          "name": "Louisville",
+          "size": 4794.52
+        },
+        {
+          "name": "Clemson",
+          "size": 4520.54
+        },
+        {
+          "name": "Wake Forest",
+          "size": 3082.19
+        },      
+        {
+          "name": "Georgia Tech",
+          "size": 3698.63
+        },
+        {
+          "name": "Pittsburgh",
+          "size": 2465.75
+        },
+        {
+          "name": "Duke",
+          "size": 3082.19
+        },
+        {
+          "name": "North Carolina",
+          "size": 2739.72
+        },
+        {
+          "name": "Virgina Tech",
+          "size": 3561.64
+        },
+        {
+          "name": "Miami (FL)",
+          "size": 3150.68
+        },
+        {
+          "name": "Virginia",
+          "size": 3287.67
+        }
+          
+        
+      ]
+    },
+    {
+      "name": "Big 12",
+      "children": [
+        {
+          "name": "Kansas State",
+          "size": 4109.59
+        },
+        {
+          "name": "Oklahoma",
+          "size": 6506.85
+        },
+        {
+          "name": "TCU",
+          "size": 4794.52
+        },
+        {
+          "name": "Baylor",
+          "size": 5821.91
+        },
+        {
+          "name": "Texas Tech",
+          "size": 3013.70
+        },
+        {
+          "name": "Kansas",
+          "size": 3424.66
+        },
+        {
+          "name": "Oklahoma State",
+          "size": 4794.52
+        },
+        {
+          "name": "Texas",
+          "size": 6849.31
+        },
+        {
+          "name": "West Virginia",
+          "size": 3835.62
+        },
+        {
+          "name": "Iowa State",
+          "size": 2465.75
+        }
+      ]
+    },
+    {
+      "name": "Pac-12",
+      "children": [
+        {
+          "name": "USC",
+          "size": 5821.92
+        },
+        {
+          "name": "Washington",
+          "size": 4657.53
+        },
+        {
+          "name": "UCLA",
+          "size": 4452.05
+        },
+        {
+          "name": "Stanford",
+          "size": 4109.59
+        },
+        {
+          "name": "Arizona State",
+          "size": 3424.66
+        },
+        {
+          "name": "California",
+          "size": 3424.66
+        },
+        {
+          "name": "Washington State",
+          "size": 4794.52
+        },
+        {
+          "name": "Colorado",
+          "size": 6849.31
+        },
+        {
+          "name": "Utah",
+          "size": 3835.62
+        },
+        {
+          "name": "Arizona",
+          "size": 2739.73
+        },
+        {
+          "name": "Oregon",
+          "size": 2739.73
+        },
+        {
+          "name": "Oregon State",
+          "size": 2191.78
+        }
+      ]
+    }
+  ]
+}
